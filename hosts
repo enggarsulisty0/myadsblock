@@ -5,6 +5,7 @@
 ! ----- ads blocked ---------------------
 ||blogger.googleusercontent.com^*gif
 ||otakudesu.cloud^$popup
+||shopee.co.id^popup
 
 ! ------ specific block ------------------
 dramaqu.pics##.new-food-featured-posts
