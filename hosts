@@ -1,0 +1,12 @@
+! Title : uBlock adsindo - enggar sulistyo
+! ------------------------------------------
+
+
+! ----- ads blocked ---------------------
+||blogger.googleusercontent.com^*gif
+||otakudesu.cloud^$popup
+
+! ------ specific block ------------------
+dramaqu.pics##.new-food-featured-posts
+shopee.co.id##shopee-banner-closable-ui
+
